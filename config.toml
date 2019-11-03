@@ -18,6 +18,9 @@ theme = "hello-friend-ng"
   # Default theme "light" or "dark"
   defaultTheme = "light"
 
+ #  Google analytics
+ googleAnalytics = "my-google-analytics-code"
+
 [languages]
   [languages.en]
     title = "Prateek Chhajed"
