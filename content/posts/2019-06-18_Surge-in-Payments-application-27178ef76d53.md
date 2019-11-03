@@ -1,7 +1,7 @@
 ---
 title: Surge in Payments application
 description: Payment solutions for a billion users.
-date: '2019-06-18T16:09:18.880Z'
+date: '2019-05-28T16:03:31.880Z'
 categories: []
 tags: [Fintech, India, Payments, Finance, Paytm]
 slug: /@prateekchhajed/surge-in-payments-application
