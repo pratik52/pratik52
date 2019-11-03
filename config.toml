@@ -42,9 +42,9 @@ theme = "hello-friend-ng"
       name = "email"
       url  = "mailto:prateekchhajed.52@gmail.com"
 
-    [[params.social]]
-      name = "github"
-      url  = "https://github.com/prateek52"
+    #[[params.social]]
+    #  name = "github"
+    #  url  = "https://github.com/prateek52"
 
     [[params.social]]
       name = "linkedin"
