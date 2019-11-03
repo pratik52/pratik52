@@ -23,7 +23,7 @@ theme = "hello-friend-ng"
     title = "Prateek Chhajed"
     subtitle = ""
     keywords = ""
-    copyright = "Prateek Chhajed"
+    copyright = ""
     readOtherPosts = "Read other posts"
 
     [languages.en.params.logo]
