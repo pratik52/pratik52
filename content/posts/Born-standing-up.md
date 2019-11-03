@@ -4,7 +4,6 @@ description: Highlights from the book.
 date: '2019-11-03T22:12:00+05:30'
 draft: false
 toc: false
-#images: ""
 tags: [Comedy, Books, Learning, Marketing, Personal Development]
 ---
 
