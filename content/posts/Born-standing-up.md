@@ -1,13 +1,12 @@
 ---
 title: "Born Standing Up"
-date: 2019-11-03T22:12:00+05:30
+description: Highlights from the book.
+date: '2019-11-03T22:12:00+05:30'
 draft: false
 toc: false
 images: "images/Steve-Martin-Born-Standing-Up-Quotes.jpg"
-tags:
-  - untagged
+tags: [Comedy, Books, Learning, Marketing, Personal Development]
 ---
-Highlights from the book.
 
 *We were comparing psychoanalysis with the making of art. I said, "Both require explorations of the subconscious, and in that way they are similar."
 But there is a fundamental difference between the two. In psychoanalysis, you try to retain a discovery; in art, once the thing is made, you let it go."*
