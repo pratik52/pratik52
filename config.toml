@@ -9,7 +9,7 @@ theme = "hello-friend-ng"
   dateformNumTime = "2006-01-02 15:04 -0700"
 
   # Metadata mostly used in document's head
-  description = "Homepage and blog by Pratik Chhajed"
+  description = "Homepage and blog by Prateek Chhajed"
   keywords = "homepage, blog, science, informatics, development, programming"
   images = [""]
 
@@ -20,7 +20,7 @@ theme = "hello-friend-ng"
 
 [languages]
   [languages.en]
-    title = "Pratik Chhajed"
+    title = "Prateek Chhajed"
     subtitle = ""
     keywords = ""
     copyright = ""
