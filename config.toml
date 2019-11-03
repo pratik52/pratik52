@@ -67,3 +67,7 @@ theme = "hello-friend-ng"
     identifier = "about"
     name       = "About"
     url        = "/about"
+
+#Disqus
+[[menu.main.disqusShortname]]
+disqusShortname = "prateekchhajed.disqus.com"    
