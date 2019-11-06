@@ -8,7 +8,6 @@ categories: []
 tags: [Habit Building, Books, Learning, Book Review, Productivity]
 slug: /@prateekchhajed/power-of-habit
 ---
-
 I am writing my learnings from the book “ **The Power of Habit: Why We Do What We Do, and How to Change”.**
 
 ![](https://cdn-images-1.medium.com/max/800/1*gnrgVtZ15VFH65ihwq8lNQ.png)
@@ -64,7 +63,5 @@ The oldest tricks of all is called sandwiching, where a new product is sandwiche
 *   **_And it endures because a movement’s leaders give participants new habits that create a fresh sense of identity and a feeling of ownershi_**p.
 
 I would highly recommend reading “The power of Habit”. It’s one of the most powerful things you can learn about. Programming ourselves is much harder if we don’t understand ourselves and it is also highly rewarding, once we master it. Have a great weekend.
-
-\- Prateek
 
 _Originally published at_ [_https://sedentary.substack.com_](https://sedentary.substack.com/p/power-of-habit)_._

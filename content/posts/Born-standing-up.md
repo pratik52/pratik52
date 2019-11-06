@@ -7,7 +7,6 @@ categories: []
 tags: [Comedy, Books, Learning, Marketing, Personal Development]
 
 ---
-
 *We were comparing psychoanalysis with the making of art. I said, "Both require explorations of the subconscious, and in that way they are similar."*
 
 *But there is a fundamental difference between the two. In psychoanalysis, you try to retain a discovery; in art, once the thing is made, you let it go."*

@@ -6,7 +6,6 @@ categories: []
 tags: [Fintech, India, Payments, Finance, Paytm]
 slug: /@prateekchhajed/surge-in-payments-application
 ---
-
 Payment solutions for a billion users.
 
 Sharing this talk from Kunal Shah (Founder Freecharge, Cred) at CFA meet on Payments landscape. This insightful talk will touch many topics and you will learn about Indian businesses and consumers. Enjoy!

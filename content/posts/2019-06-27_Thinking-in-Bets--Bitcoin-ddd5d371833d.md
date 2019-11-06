@@ -6,9 +6,6 @@ categories: []
 tags: [Bitcoin, Bets, Blockchain, Finance]
 slug: /@prateekchhajed/thinking-in-bets-bitcoin
 ---
-
-By Prateek Chhajed
-
 We are living in a tech dominant world. Technologists are redesigning every human interaction and experience, they are reshaping the world like never before, changing how & what we read/listen/buy/eat everything.
 
 Technologists new and most aspiring gig now is to change how we store value. Also, we need to understand that money is one of the biggest experiment on earth, we have always been looking for an efficient store of value.
@@ -55,7 +52,5 @@ Instead of being too optimist or too pessimist about the future of Bitcoin, let�
 #### Golden Rule of Investing, Never invests in something you don’t understand.
 
 To learn more about Bitcoin, refer to this open-source curated list of useful Bitcoin resources. — [https://www.lopp.net/bitcoin-information.html](https://www.lopp.net/bitcoin-information.html)
-
-\-Prateek
 
 _Originally published at_ [_https://sedentary.substack.com_](https://sedentary.substack.com/p/thinking-in-bets-bitcoin)_._

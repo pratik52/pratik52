@@ -8,7 +8,6 @@ categories: []
 tags: [Future, Innovation, Technology, Programming, History]
 slug: /@prateekchhajed/age-of-oracle
 ---
-
 This is my attempt to connect dots and see what future lies ahead of us. I am going to discuss the chaos & complexity of our world, how we have managed to operate such big cities & organizations. How we are going to shape the modern world regarding fundamental rights, education, finance, etc. To understand this we should first try to understand how policies came into existence, why we need rights, how policies and laws have improved over time.
 
 Hammurabi was the sixth king of the First Babylonian dynasty, reigning from c. 1792 BC to c. 1750 BC.
@@ -63,7 +62,5 @@ This is what **Age of Oracle** will look like, a world where we program systems 
 We have the constitution with stated rules and regulations for all type of wrongdoings. We can program a system with this law to derive on a solution to resolve conflicts. We can harness the power of programming, distributed systems to build immutable systems, where everyone abides by the law & order without any exception/exclusivity.
 
 Thanks for reading. I would love to know what do you think about it and where would you want to see such innovation first.
-
-\-Pratik
 
 _Originally published at_ [_https://sedentary.substack.com_](https://sedentary.substack.com/p/age-of-oracle)_._

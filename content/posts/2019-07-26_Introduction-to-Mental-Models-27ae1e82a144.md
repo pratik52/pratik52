@@ -6,7 +6,6 @@ categories: []
 tags: [Productivity, Decision Making, Business, Life Lessons, Learning]
 slug: /@prateekchhajed/introduction-to-mental-models
 ---
-
 Tools of the Titans
 
 ![](https://cdn-images-1.medium.com/max/800/0*mPkLlduh9TvSaW79.jpeg)
@@ -84,7 +83,5 @@ Knowing about mental models is one thing and implementing it is a whole other ga
 ![](https://cdn-images-1.medium.com/max/800/0*cAv2nsEQoMc1DfRQ.jpeg)
 
 To practice this, set a monthly/weekly review system of your processes, goals and run it through your own set of models and find out where are you lacking, what is pulling you back.
-
-\-Pratik
 
 _Originally published at_ [_https://sedentary.substack.com_](https://sedentary.substack.com/p/logical-thinking-mental-models)_._
