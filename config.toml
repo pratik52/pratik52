@@ -30,7 +30,7 @@ theme = "hello-friend-ng"
     readOtherPosts = "Read other posts"
 
     [languages.en.params.logo]
-      logoText = "Hello World!"
+      logoText = "Hello World"
       logoHomeLink = "/"
     # or
     #
