@@ -19,7 +19,7 @@ theme = "hello-friend-ng"
   defaultTheme = "light"
 
  #  Google analytics
- googleAnalytics = "my-google-analytics-code"
+ googleAnalytics = "UA-151396153-1"
 
 [languages]
   [languages.en]
