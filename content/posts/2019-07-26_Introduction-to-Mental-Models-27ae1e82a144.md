@@ -5,6 +5,7 @@ date: '2019-07-26T16:12:52.265Z'
 categories: []
 tags: [Productivity, Decision Making, Business, Life Lessons, Learning]
 slug: /@prateekchhajed/introduction-to-mental-models
+draft : true
 ---
 Tools of the Titans
 
