@@ -1,7 +1,7 @@
 ---
 title: GDC Strategy
 description: Strategic planning to setup a GDC in India.
-date: '2020-03-28'
+date: '2020-03-28T00:11:05.077Z'
 categories: []
 tags: [Planning, Strategy, Business, Location]
 slug: /@prateekchhajed/gdc-strategy
@@ -24,7 +24,7 @@ GDCs, bring in work which is clearly business-impacting, core, complex, strategi
 
 ## **Key factors to assess a GDC location:**
 
-**Talent Landscape **— The qualified talent pool, across domains such as technology, analytics, digital and business functions, is available at scale is crucial.
+**Talent Landscape** — The qualified talent pool, across domains such as technology, analytics, digital and business functions, is available at scale is crucial.
 
 **Access to a mature ecosystem** — Good connectivity and accessibility will help attract talent from anywhere in India, the rest of Asia and even other parts of the world.”
 
