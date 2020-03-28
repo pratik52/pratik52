@@ -7,9 +7,6 @@ tags: [Planning, Strategy, Business, Location]
 slug: /@prateekchhajed/gdc-strategy
 ---
 
-
-# GDC Strategy
-
 Suppose you are asked to form a GDC(Global Development Centre) strategy for an MNC in cloud solutions domain, who is looking to set up its development centre in India.
 
 How would you go about helping the MNC figure out location, hire 1000+ software developers?
