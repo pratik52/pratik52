@@ -6,12 +6,11 @@ categories: []
 tags: [Planning, Strategy, Business, Location]
 slug: /@prateekchhajed/gdc-strategy
 ---
+![](https://cdn-images-1.medium.com/max/2000/0*aNMe7T1jrsaU_oqp)
 
 Suppose you are asked to form a GDC(Global Development Centre) strategy for an MNC in cloud solutions domain, who is looking to set up its development centre in India.
 
 How would you go about helping the MNC figure out location, hire 1000+ software developers?
-
-![](https://cdn-images-1.medium.com/max/2000/0*aNMe7T1jrsaU_oqp)
 
 GDCs, bring in work which is clearly business-impacting, core, complex, strategic, and challenging. Typically, this kind of work does not get outsourced and is not available with third-party service providers.
 
