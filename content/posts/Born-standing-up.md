@@ -1,19 +1,19 @@
 ---
 
-title: Born Standing Up
+title: Born Standing Up - Steve Martin
 description: Highlights from the book.
 date: '2019-11-03T22:12:00+05:30'
 categories: []
 tags: [Comedy, Books, Learning, Marketing, Personal Development]
 
 ---
-*We were comparing psychoanalysis with the making of art. I said, "Both require explorations of the subconscious, and in that way they are similar."*
+*We were comparing psychoanalysis with the making of art. I said, "Both require explorations of the subconscious, and in that way they are similar."* - Steve Martin
 
 *But there is a fundamental difference between the two. In psychoanalysis, you try to retain a discovery; in art, once the thing is made, you let it go."*
 
 ![](https://miro.medium.com/max/1481/1*iTZuNC04GY36SMw9FlprNQ.jpeg)
 
-I DID STAND-UP COMEDY for eighteen years. Ten of those years were spent learning, four years were spent refining, and four were spent in wild success.
+Steve Martin DID STAND-UP COMEDY for eighteen years. Ten of those years were spent learning, four years were spent refining, and four were spent in wild success.
 
 ### His Observations & learnings from comic career -
 
