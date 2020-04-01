@@ -10,13 +10,13 @@ theme = "hello-friend-ng"
 
   # Metadata mostly used in document's head
   description = "Homepage and blog by Prateek Chhajed"
-  keywords = "homepage, blog, science, informatics, development, programming"
+  keywords = "homepage, blog, science, prateek, chhajed, prateek chhajed, development, programming, product management"
   images = [""]
 
   # Directory name of your blog content (default is `content/posts`)
   contentTypeName = "posts"
   # Default theme "light" or "dark"
-  defaultTheme = "light"
+  defaultTheme = "dark"
 
  #  Google analytics
  googleAnalytics = "UA-151396153-1"
