@@ -16,7 +16,7 @@ theme = "hello-friend-ng"
   # Directory name of your blog content (default is `content/posts`)
   contentTypeName = "posts"
   # Default theme "light" or "dark"
-  defaultTheme = "dark"
+  defaultTheme = "light"
 
  #  Google analytics
  googleAnalytics = "UA-151396153-1"
