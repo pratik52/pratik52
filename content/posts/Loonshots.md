@@ -5,7 +5,7 @@ date: '2020-04-02T00:11:32.077Z'
 categories: []
 comments: "true"
 tags: []
-draft: "false"
+draft: "true"
 slug: /@prateekchhajed/loonshots
 ---
 Over the past decade, researchers have been applying the tools and techniques of phase transitions to understand how birds flock, fish swim, brains work, people vote, criminals behave, ideas spread, diseases erupt, and ecosystems collapse. If twentieth-century science was shaped by the search for fundamental laws, like quantum mechanics and gravity, the twenty-first will be shaped by this new kind of science.
