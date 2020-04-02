@@ -4,7 +4,7 @@ description: >-
   I am writing my learnings from the book “ The Power of Habit: Why We Do What
   We Do, and How to Change”.
 date: '2019-06-15T16:31:07.608Z'
-categories: []
+categories: [Books]
 comments: "true"
 tags: [Habit Building, Books, Learning, Book Review, Productivity]
 slug: /@prateekchhajed/power-of-habit
