@@ -3,6 +3,7 @@ title: GDC Strategy
 description: Strategic planning to setup a GDC in India.
 date: '2020-03-28T00:11:05.077Z'
 categories: []
+comments: "true"
 tags: [Planning, Strategy, Business, Location]
 slug: /@prateekchhajed/gdc-strategy
 ---

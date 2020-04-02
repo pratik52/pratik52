@@ -3,6 +3,7 @@ title: Introduction to Mental Models
 description: Tools of the Titans
 date: '2019-07-26T16:12:52.265Z'
 categories: []
+comments: "true"
 tags: [Productivity, Decision Making, Business, Life Lessons, Learning]
 slug: /@prateekchhajed/introduction-to-mental-models
 draft : true

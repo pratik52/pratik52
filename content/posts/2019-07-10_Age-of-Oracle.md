@@ -5,6 +5,7 @@ description: >-
   going to discuss the chaos & complexity of our world, how we…
 date: '2019-07-10T10:50:21.195Z'
 categories: []
+comments: "true"
 tags: [Future, Innovation, Technology, Programming, History]
 slug: /@prateekchhajed/age-of-oracle
 ---
