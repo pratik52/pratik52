@@ -77,18 +77,20 @@ System mindset means carefully examining the quality of decisions, not just the 
 * I often heard stories from scientist and manager friends at Genentech about Levinson. How he would call a junior technician in the lab, for example, and grill him on his data. Levinson and the early founders of Genentech understood, like Bush and Vail, and Catmull decades later, the need to tailor the tools to the phase. Ferocious attention to scientific detail—or artistic vision or engineering design—is one tool, tailor won’t stay around for long.The stories in part one illustrate the first three Bush-Vail rules:
 
 **1. Separate the phases**
-* Separate your artists and soldiers
-* Tailor the tools to the phase
-* Watch your blind side: nurture both types of loonshots (product and strategy)
+
+- Separate your artists and soldiers
+- Tailor the tools to the phase
+- Watch your blind side: nurture both types of loonshots (product and strategy)
 
 **2. Create dynamic equilibrium**
-* Love your artists and soldiers equally
-* Manage the transfer, not the technology: be a gardener, not a Moses
-* Appoint, and train, project champions to bridge the divide
-* Spread a system mindset
-* Keep asking why the organization made the choices that it did
-* Keep asking how the decision-making process can be improved
-* Identify teams with outcome mindsets, and help them adopt system mindsets
+
+- Love your artists and soldiers equally
+- Manage the transfer, not the technology: be a gardener, not a Moses
+- Appoint, and train, project champions to bridge the divide
+- Spread a system mindset
+- Keep asking why the organization made the choices that it did
+- Keep asking how the decision-making process can be improved
+- Identify teams with outcome mindsets, and help them adopt system mindsets
 
 ## The Science of Sudden Change
 
