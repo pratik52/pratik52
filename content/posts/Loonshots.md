@@ -14,7 +14,7 @@ There’s a quote from Francis Crick that I love,” Miller said. Crick was awar
 
 ## Engineers of Serendipity
 
-The breakthroughs that change our world are born from the marriage of genius and serendipity.
+  The breakthroughs that change our world are born from the marriage of genius and serendipity.
 
 * Both Bush and Vail saw their jobs as managing the touch and the balance between loonshots and franchises—between scientists exploring the bizarre and soldiers assembling munitions; between the blue-sky research of Bell Labs and the daily grind of telephone operations. Rather than dive deep into one or the other, they focused on the transfer between the two.
 
@@ -24,27 +24,27 @@ The breakthroughs that change our world are born from the marriage of genius and
 
 * Endo finally began screening fungi in April 1971. He tested just over six thousand species. In the summer of 1972, one sample lit up his system—what drug developers call a “hit.” A blue-green mold, discovered growing on rice in a grain store in Kyoto, blocked a key enzyme needed to make cholesterol. The mold was Penicillium citrinum, the same genus that produced penicillin, but a different species. Within a year, Endo extracted the molecule that lowered cholesterol. He called it ML-236B. The drug is now known as mevastatin. It is the seed—the original—from which sprang Lipitor, Zocor, Crestor, and all the other statins. The statins would grow into the most widely prescribed drug franchise in history, saving millions of lives.
 
-Mevastatin decreased cholesterol by nearly half, triglycerides by even more, with no ill effects. Much later, scientists learned that rats have mostly HDL (“good cholesterol”) circulating in their blood, and very little LDL, the “bad cholesterol” that contributes to heart disease. Which means that rats are a poor choice for evaluating statins, which lower just the LDL. Chickens have both types, like humans.
+  Mevastatin decreased cholesterol by nearly half, triglycerides by even more, with no ill effects. Much later, scientists learned that rats have mostly HDL (“good cholesterol”) circulating in their blood, and very little LDL, the “bad cholesterol” that contributes to heart disease. Which means that rats are a poor choice for evaluating statins, which lower just the LDL. Chickens have both types, like humans.
 
-Endo’s journey, from start to ultimate validation with the FDA approval of the first statin, lasted sixteen years.
+  Endo’s journey, from start to ultimate validation with the FDA approval of the first statin, lasted sixteen years.
 
 * In 1971, Folkman had proposed that cancer cells interact with their hosts, sending out signals that trick surrounding tissues into preparing the local environment for a tumor to grow. Tumors, for example, need blood vessels to bring in oxygen and other nutrients, just like a home needs pipes to bring in water and gas. Folkman suggested that cancer cells signal surrounding tissues to produce those blood vessels. His idea was to design a new kind of drug, one that blocks those signals and destroys those pipes. In other words, a drug that starves a tumor.
 
-At the time, the only approach to treating cancer was chemotherapy: flood tumors with poison, the more the better, as long as you don’t kill the patient at the same time.
+  At the time, the only approach to treating cancer was chemotherapy: flood tumors with poison, the more the better, as long as you don’t kill the patient at the same time.
 
 * “You can tell a leader by counting the number of arrows in his ass.” People may think of Endo and Folkman as great inventors, but arguably their greatest skill was investigating failure.
 
-Peter Thiel investing ON Facebook even when other social media platforms were shutting down. They learned to separate False Fails from true fails. They concluded that users weren’t leaving because social networks were weak business models, like clothing brands. They were leaving because of a software glitch. It was a False Fail.
+  Peter Thiel investing ON Facebook even when other social media platforms were shutting down. They learned to separate False Fails from true fails. They concluded that users weren’t leaving because social networks were weak business models, like clothing brands. They were leaving because of a software glitch. It was a False Fail.
 
 * On the creative side, inventors (artists) often believe that their work should speak for itself. Most find any kind of promotion distasteful. On the business side, line managers (soldiers) don’t see the need for someone who doesn’t make or sell stuff—for someone whose job is simply to promote an idea internally.
 
-But great project champions are much more than promoters. They are bilingual specialists, fluent in both artist-speak and soldier-speak, who can bring the two sides together.
+  But great project champions are much more than promoters. They are bilingual specialists, fluent in both artist-speak and soldier-speak, who can bring the two sides together.
 
 * In Italy, for 30 years under the Borgias, they had warfare, terror, murder and bloodshed, but they produced Michelangelo, Leonardo da Vinci, and the Renaissance.In Switzerland, they had brotherly love, they had 500 years of democracy and peace—and what did that produce? The cuckoo clock.
 
 * PC clones using Intel chips and Microsoft software drained IBM’s market share. In 1993, IBM lost $8.1 billion, its largest-ever loss. That year it let go over 100,000 employees, the largest layoff in corporate history. Ten years later, IBM sold what was left of its PC business to Lenovo.
 
-Today, the combined market value of Microsoft and Intel, the two tiny vendors IBM hired, is close to $1.5 trillion, more than ten times the value of IBM. IBM correctly anticipated a P-type loonshot and won the battle. But it missed a critical S-type loonshot, a software standard, and lost the war.
+  Today, the combined market value of Microsoft and Intel, the two tiny vendors IBM hired, is close to $1.5 trillion, more than ten times the value of IBM. IBM correctly anticipated a P-type loonshot and won the battle. But it missed a critical S-type loonshot, a software standard, and lost the war.
 
 * Moses Trap: When ideas advance only at the pleasure of a holy leader—rather than the balanced exchange of ideas and feedback between soldiers in the field and creatives at the bench selecting loonshots on merit—that is exactly when teams and companies get trapped. The leader raises his staff and parts the seas to make way for the chosen loonshot. The dangerous virtuous cycle spins faster and faster: loonshot feeds franchise feeds bigger, faster, more. The all-powerful leader begins acting for love of loonshots rather than strength of strategy.
 
@@ -52,7 +52,7 @@ Today, the combined market value of Microsoft and Intel, the two tiny vendors IB
 
 * Isaac Newton, for example, is often celebrated for discovering universal gravity, explaining the motion of the planets, and inventing calculus. But well before Newton’s Principia, it was Johannes Kepler who first suggested the idea of a force from the sun driving the motion of the planets, Robert Hooke who first suggested a principle of universal gravity, Christiaan Huygens who showed that circular motion generates a centrifugal force, many who used Huygens’s law to derive the now-familiar form of gravity, Giovanni Borelli who explained the elliptical motion of Jupiter’s moons using gravitational forces, John Wallis and others who created the differential mathematics Newton used, and Gottfried Leibniz who invented calculus in the form we use today. That story is harder to tell than the apple falling on Newton’s head.
 
-Isaac Newton had Robert Hooke. Steve Jobs had Jef Raskin. Robert Hooke, in his spare time, designed bat-like flying wings, developed sprung shoes to bounce around London in twelve-foot-high leaps, and investigated the uses of marijuana (“the Patient understands not, nor remembereth any Thing that he seeth … yet is he very merry”).
+  Isaac Newton had Robert Hooke. Steve Jobs had Jef Raskin. Robert Hooke, in his spare time, designed bat-like flying wings, developed sprung shoes to bounce around London in twelve-foot-high leaps, and investigated the uses of marijuana (“the Patient understands not, nor remembereth any Thing that he seeth … yet is he very merry”).
 
 * Jef Raskin, in his spare time, designed and built remote-controlled plane kits, taught harpsichord, conducted an opera company, and filed patents on packaging design. Like Hooke, Raskin was a bit of a dabbler.
 
@@ -60,37 +60,37 @@ Isaac Newton had Robert Hooke. Steve Jobs had Jef Raskin. Robert Hooke, in his s
 
 * Here is Catmull describing the need to maintain the balance between loonshots and franchises—“the Beast”—in film:
 
-Originality is fragile. And, in its first moments, it’s often far from pretty. This is why I call early mock-ups of our films “Ugly Babies.” They are not beautiful, miniature versions of the adults they will grow up to be. They are truly ugly: awkward and unformed, vulnerable and incomplete. They need nurturing—in the form of time and patience —in order to grow. What this means is that they have a hard time coexisting with the Beast.
+  Originality is fragile. And, in its first moments, it’s often far from pretty. This is why I call early mock-ups of our films “Ugly Babies.” They are not beautiful, miniature versions of the adults they will grow up to be. They are truly ugly: awkward and unformed, vulnerable and incomplete. They need nurturing—in the form of time and patience —in order to grow. What this means is that they have a hard time coexisting with the Beast.
 
-When I talk about the Beast and the Baby, it can seem very black and white—that the Beast is all bad and the Baby is all good. The truth is, reality lies somewhere in between. The Beast is a glutton but also a valuable motivator. The Baby is so pure and unsullied, so full of potential, but it’s also needy and unpredictable and can keep you up at night. The key is for your Beast and your Babies to coexist peacefully, and that requires that you keep various forces in balance.
+  When I talk about the Beast and the Baby, it can seem very black and white—that the Beast is all bad and the Baby is all good. The truth is, reality lies somewhere in between. The Beast is a glutton but also a valuable motivator. The Baby is so pure and unsullied, so full of potential, but it’s also needy and unpredictable and can keep you up at night. The key is for your Beast and your Babies to coexist peacefully, and that requires that you keep various forces in balance.
 
 * Franchise projects are easier to understand than loonshots, easier to quantify, and easier to sell up the chain of command in large companies. The challenge for these sequels and follow-ons is not in making it through the long dark tunnel of skepticism and uncertainty. Their challenge is in exceeding what came before.
 
 * The difference between system and outcome mindset is a principle. (How Life Imitates Chess - Kasparov)
 
-Bad—why pawn-takes-bishop, for example, lost the game—as level 1 strategy, or outcome mindset. After a bad move costs him a game, however, Kasparov analyzes not just why the move was bad, but how he should change the decision process behind the move. In other words, how he decided on that move, in that moment, in the context of that opponent, and what that means for how he should change his decision-making and game-preparation routine in the future. Analyzing the decision process behind a move I’ll call level 2 strategy, or system mindset.
+  Bad—why pawn-takes-bishop, for example, lost the game—as level 1 strategy, or outcome mindset. After a bad move costs him a game, however, Kasparov analyzes not just why the move was bad, but how he should change the decision process behind the move. In other words, how he decided on that move, in that moment, in the context of that opponent, and what that means for how he should change his decision-making and game-preparation routine in the future. Analyzing the decision process behind a move I’ll call level 2 strategy, or system mindset.
 
-System mindset means carefully examining the quality of decisions, not just the quality of outcomes. A failed outcome, for example, does not necessarily mean the decision or decision process behind it was bad. There are good decisions with bad outcomes. Those are intelligent risks, well taken, that didn’t play out.
+  System mindset means carefully examining the quality of decisions, not just the quality of outcomes. A failed outcome, for example, does not necessarily mean the decision or decision process behind it was bad. There are good decisions with bad outcomes. Those are intelligent risks, well taken, that didn’t play out.
 
 * I often heard stories from scientist and manager friends at Genentech about Levinson. How he would call a junior technician in the lab, for example, and grill him on his data. Levinson and the early founders of Genentech understood, like Bush and Vail, and Catmull decades later, the need to tailor the tools to the phase. Ferocious attention to scientific detail—or artistic vision or engineering design—is one tool, tailor won’t stay around for long.The stories in part one illustrate the first three Bush-Vail rules:
 
-1. Separate the phases
-  • Separate your artists and soldiers
-  • Tailor the tools to the phase
-  • Watch your blind side: nurture both types of loonshots (product and strategy)
+  1. Separate the phases
+    • Separate your artists and soldiers
+    • Tailor the tools to the phase
+    • Watch your blind side: nurture both types of loonshots (product and strategy)
 
-2. Create dynamic equilibrium
-  • Love your artists and soldiers equally
-  • Manage the transfer, not the technology: be a gardener, not a Moses
-  • Appoint, and train, project champions to bridge the divide
-  • Spread a system mindset
-  • Keep asking why the organization made the choices that it did
-  • Keep asking how the decision-making process can be improved
-  • Identify teams with outcome mindsets, and help them adopt system mindsets
+  2. Create dynamic equilibrium
+    • Love your artists and soldiers equally
+    • Manage the transfer, not the technology: be a gardener, not a Moses
+    • Appoint, and train, project champions to bridge the divide
+    • Spread a system mindset
+    • Keep asking why the organization made the choices that it did
+    • Keep asking how the decision-making process can be improved
+    • Identify teams with outcome mindsets, and help them adopt system mindsets
 
 ## The Science of Sudden Change
 
-Emergent properties are collective behaviors: dynamics of the whole that don’t depend on the details of the parts, the macro that rises above the micro.
+  Emergent properties are collective behaviors: dynamics of the whole that don’t depend on the details of the parts, the macro that rises above the micro.
 
 * One of the things that distinguishes an emergent property like the flow of liquids from a fundamental law—like quantum mechanics or gravity, for example—is that an emergent property can suddenly change. With a small shift in temperature, liquids suddenly change into solids. That sudden shift from one emergent behavior to another is exactly what we mean by a phase transition.
 
@@ -100,11 +100,11 @@ Emergent properties are collective behaviors: dynamics of the whole that don’t
 
 * To understand what phase transitions tell us about nurturing loonshots more effectively, we need to know just two things about them:
 
-1. At the heart of every phase transition is a tug-of-war between two competing forces.
-2. Phase transitions are triggered when small shifts in system properties—for example, density or temperature—cause the balance between those two forces to change.
+  1. At the heart of every phase transition is a tug-of-war between two competing forces.
+  2. Phase transitions are triggered when small shifts in system properties—for example, density or temperature—cause the balance between those two forces to change.
 
 * As a forest gets dangerously close to a phase transition, to erupting, the frequency of fires should take a specific form. The frequency should vary in inverse proportion to size: Twenty-acre fires should occur half as often as ten-acre fires. Forty-acre fires should occur one-quarter as often as ten-acre fires. Hundred-acre fires should occur one-tenth as often, and so on. That pattern, called a power law, is a surprising prediction—a mathematical clue that a forest is on the verge of erupting.
 
 * Price movements that should happen once a year instead happen daily. Stock exchanges in New York, London, Paris, and Tokyo all show the same pattern. The curve that measures the frequency of price movements is supposed to have a minuscule tail, which accounts for rare outliers. In the real world, those tails are not minuscule. When extreme outcomes happen much more frequently than you expect, the probability distribution develops what statisticians call a “fat tail.”
 
-Physicists love fat tails. Random systems with no hidden connections, like coin tosses, have thin tails.
+  Physicists love fat tails. Random systems with no hidden connections, like coin tosses, have thin tails.
