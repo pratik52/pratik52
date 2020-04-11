@@ -8,6 +8,8 @@ tags: [ Books, Learning, product, teams, ideas]
 draft: "false"
 slug: /@prateekchhajed/loonshots
 ---
+![](http://www.innovationmatrix.com/wp-content/uploads/2019/04/Loonshots-book-cover.jpg)
+
 Over the past decade, researchers have been applying the tools and techniques of phase transitions to understand how birds flock, fish swim, brains work, people vote, criminals behave, ideas spread, diseases erupt, and ecosystems collapse. If twentieth-century science was shaped by the search for fundamental laws, like quantum mechanics and gravity, the twenty-first will be shaped by this new kind of science.
 
 There’s a quote from Francis Crick that I love,” Miller said. Crick was awarded the Nobel Prize for discovering, along with James Watson, the double-helix structure of DNA. “When asked what it takes to win a Nobel Prize, Crick said, ‘Oh it’s very simple. My secret had been I know what to ignore.’”
