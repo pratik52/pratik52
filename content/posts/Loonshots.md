@@ -1,10 +1,10 @@
 ---
-title: 'loonshots'
+title: 'Loonshots'
 description: Highlights from the book.
 date: '2020-04-11T00:09:27.077Z'
 categories: []
 comments: "true"
-tags: []
+tags: [ Books, Learning, product, teams, ideas]
 draft: "false"
 slug: /@prateekchhajed/loonshots
 ---
