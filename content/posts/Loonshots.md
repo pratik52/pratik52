@@ -58,7 +58,7 @@ Isaac Newton had Robert Hooke. Steve Jobs had Jef Raskin. Robert Hooke, in his s
 
 * “As the births of living creatures are at first ill-shapen, so are all Innovations, which are the births of time.”
 
-* Here is Catmull describing the need to maintain the balance between loonshots and franchises—“the Beast”—in film:
+Here is Catmull describing the need to maintain the balance between loonshots and franchises—“the Beast”—in film:
 
 Originality is fragile. And, in its first moments, it’s often far from pretty. This is why I call early mock-ups of our films “Ugly Babies.” They are not beautiful, miniature versions of the adults they will grow up to be. They are truly ugly: awkward and unformed, vulnerable and incomplete. They need nurturing—in the form of time and patience —in order to grow. What this means is that they have a hard time coexisting with the Beast.
 
@@ -74,12 +74,12 @@ System mindset means carefully examining the quality of decisions, not just the 
 
 * I often heard stories from scientist and manager friends at Genentech about Levinson. How he would call a junior technician in the lab, for example, and grill him on his data. Levinson and the early founders of Genentech understood, like Bush and Vail, and Catmull decades later, the need to tailor the tools to the phase. Ferocious attention to scientific detail—or artistic vision or engineering design—is one tool, tailor won’t stay around for long.The stories in part one illustrate the first three Bush-Vail rules:
 
-1. Separate the phases
+### 1. Separate the phases
   * Separate your artists and soldiers
   * Tailor the tools to the phase
   * Watch your blind side: nurture both types of loonshots (product and strategy)
 
-2. Create dynamic equilibrium
+### 2. Create dynamic equilibrium
   * Love your artists and soldiers equally
   * Manage the transfer, not the technology: be a gardener, not a Moses
   * Appoint, and train, project champions to bridge the divide
@@ -98,7 +98,7 @@ Emergent properties are collective behaviors: dynamics of the whole that don’t
 
 * The battles between the descendants of these two branches continue to this day. One side believes the highest priority should be to search for fundamental laws and writes lines like: “We are living through a landmark period in human history in which the search for the ultimate laws of the universe will finally draw to a close.”The other side believes that there may be no such fundamental laws. The laws of nature may be like an infinite skyscraper, with different and fascinating rules at each level, rules that are gradually revealed as you descend the stairway down to smaller and smaller distance scales. The current high priest of this branch writes lines like: “The existence of these [emergent] principles is so obvious that it is a cliché not discussed in polite company,” and of their deniers, “The safety that comes from acknowledging only the facts one likes is fundamentally incompatible with science. Sooner or later it must be swept away by the forces of history.”
 
-* To understand what phase transitions tell us about nurturing loonshots more effectively, we need to know just two things about them:
+### To understand what phase transitions tell us about nurturing loonshots more effectively, we need to know just two things about them:
 
   1. At the heart of every phase transition is a tug-of-war between two competing forces.
   2. Phase transitions are triggered when small shifts in system properties—for example, density or temperature—cause the balance between those two forces to change.
