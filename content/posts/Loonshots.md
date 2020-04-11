@@ -66,7 +66,7 @@ When I talk about the Beast and the Baby, it can seem very black and white—tha
 
 * Franchise projects are easier to understand than loonshots, easier to quantify, and easier to sell up the chain of command in large companies. The challenge for these sequels and follow-ons is not in making it through the long dark tunnel of skepticism and uncertainty. Their challenge is in exceeding what came before.
 
-* The difference between system and outcome mindset is a principle. (How Life Imitates Chess - Kasparov)
+* The difference between system and outcome mindset is a **principle**. (How Life Imitates Chess - Kasparov)
 
 Bad—why pawn-takes-bishop, for example, lost the game—as level 1 strategy, or outcome mindset. After a bad move costs him a game, however, Kasparov analyzes not just why the move was bad, but how he should change the decision process behind the move. In other words, how he decided on that move, in that moment, in the context of that opponent, and what that means for how he should change his decision-making and game-preparation routine in the future. Analyzing the decision process behind a move I’ll call level 2 strategy, or system mindset.
 
@@ -74,12 +74,12 @@ System mindset means carefully examining the quality of decisions, not just the 
 
 * I often heard stories from scientist and manager friends at Genentech about Levinson. How he would call a junior technician in the lab, for example, and grill him on his data. Levinson and the early founders of Genentech understood, like Bush and Vail, and Catmull decades later, the need to tailor the tools to the phase. Ferocious attention to scientific detail—or artistic vision or engineering design—is one tool, tailor won’t stay around for long.The stories in part one illustrate the first three Bush-Vail rules:
 
-### 1. Separate the phases
+**1. Separate the phases**
   * Separate your artists and soldiers
   * Tailor the tools to the phase
   * Watch your blind side: nurture both types of loonshots (product and strategy)
 
-### 2. Create dynamic equilibrium
+**2. Create dynamic equilibrium**
   * Love your artists and soldiers equally
   * Manage the transfer, not the technology: be a gardener, not a Moses
   * Appoint, and train, project champions to bridge the divide
@@ -98,7 +98,7 @@ Emergent properties are collective behaviors: dynamics of the whole that don’t
 
 * The battles between the descendants of these two branches continue to this day. One side believes the highest priority should be to search for fundamental laws and writes lines like: “We are living through a landmark period in human history in which the search for the ultimate laws of the universe will finally draw to a close.”The other side believes that there may be no such fundamental laws. The laws of nature may be like an infinite skyscraper, with different and fascinating rules at each level, rules that are gradually revealed as you descend the stairway down to smaller and smaller distance scales. The current high priest of this branch writes lines like: “The existence of these [emergent] principles is so obvious that it is a cliché not discussed in polite company,” and of their deniers, “The safety that comes from acknowledging only the facts one likes is fundamentally incompatible with science. Sooner or later it must be swept away by the forces of history.”
 
-### To understand what phase transitions tell us about nurturing loonshots more effectively, we need to know just two things about them:
+**To understand what phase transitions tell us about nurturing loonshots more effectively, we need to know just two things about them:**
 
   1. At the heart of every phase transition is a tug-of-war between two competing forces.
   2. Phase transitions are triggered when small shifts in system properties—for example, density or temperature—cause the balance between those two forces to change.
