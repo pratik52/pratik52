@@ -1,11 +1,11 @@
 ---
 title: 'loonshots'
 description: Highlights from the book.
-date: '2020-04-02T00:11:32.077Z'
+date: '2020-04-11T00:09:27.077Z'
 categories: []
 comments: "true"
 tags: []
-draft: "true"
+draft: "false"
 slug: /@prateekchhajed/loonshots
 ---
 Over the past decade, researchers have been applying the tools and techniques of phase transitions to understand how birds flock, fish swim, brains work, people vote, criminals behave, ideas spread, diseases erupt, and ecosystems collapse. If twentieth-century science was shaped by the search for fundamental laws, like quantum mechanics and gravity, the twenty-first will be shaped by this new kind of science.
@@ -17,8 +17,6 @@ In the 1970s, Nokia was an industrial conglomerate famous mostly for its rubber 
 ## Engineers of Serendipity
 
 Churchill continued with what became one of the most famous lines of the twentieth century: “Let us therefore brace ourselves to our duties, and so bear ourselves that, if the British Empire and its Commonwealth last for a thousand years, men will still say, ‘This was their finest hour.’”
-
-Over the next 50 years, Vail’s organization—eventually called the Bell Telephone Laboratories—produced the transistor, the solar cell, the CCD chip (used inside every digital camera), the first continuously operating laser, the Unix operating system, the C programming language, and eight Nobel Prizes. Vail created the most successful industrial research lab in history, and AT&T grew into the country’s largest business.
 
 The breakthroughs that change our world are born from the marriage of genius and serendipity.
 
@@ -42,13 +40,11 @@ At the time, the only approach to treating cancer was chemotherapy: flood tumors
 
 “You can tell a leader by counting the number of arrows in his ass.” People may think of Endo and Folkman as great inventors, but arguably their greatest skill was investigating failure.
 
-Peter Thiel investinG ON Facebook even when other social media platforms were shutting down. They learned to separate False Fails from true fails. They concluded that users weren’t leaving because social networks were weak business models, like clothing brands. They were leaving because of a software glitch. It was a False Fail.
+Peter Thiel investing ON Facebook even when other social media platforms were shutting down. They learned to separate False Fails from true fails. They concluded that users weren’t leaving because social networks were weak business models, like clothing brands. They were leaving because of a software glitch. It was a False Fail.
 
 On the creative side, inventors (artists) often believe that their work should speak for itself. Most find any kind of promotion distasteful. On the business side, line managers (soldiers) don’t see the need for someone who doesn’t make or sell stuff—for someone whose job is simply to promote an idea internally.
 
 But great project champions are much more than promoters. They are bilingual specialists, fluent in both artist-speak and soldier-speak, who can bring the two sides together.
-
-Listening to the Suck with Curiosity (LSC)—overcoming the urge to defend and dismiss when attacked and instead investigating failure with an open mind.*
 
 In Italy, for 30 years under the Borgias, they had warfare, terror, murder and bloodshed, but they produced Michelangelo, Leonardo da Vinci, and the Renaissance.In Switzerland, they had brotherly love, they had 500 years of democracy and peace—and what did that produce? The cuckoo clock.
 
@@ -58,17 +54,9 @@ Today, the combined market value of Microsoft and Intel, the two tiny vendors IB
 
 Moses Trap: When ideas advance only at the pleasure of a holy leader—rather than the balanced exchange of ideas and feedback between soldiers in the field and creatives at the bench selecting loonshots on merit—that is exactly when teams and companies get trapped. The leader raises his staff and parts the seas to make way for the chosen loonshot. The dangerous virtuous cycle spins faster and faster: loonshot feeds franchise feeds bigger, faster, more. The all-powerful leader begins acting for love of loonshots rather than strength of strategy.
 
-A beam of light has three familiar properties: direction, intensity, and color.
-
-It also has a hidden fourth property, called polarization.
-
-If anything is worth doing, it’s worth doing to excess.” He persisted, but had no luck with his polarizer idea.
-
 Sick dogs that were fed quinine to treat parasites showed an unusual type of crystal in their urine. Those microscopic crystals, called herapathite, turned out to be the highest-quality polarizers ever discovered. Scientists had tried for decades, starting in the mid-nineteenth century, to grow the crystals and make useful polarizers out of them. But they failed—the tiny crystals are impossibly fragile—and the field eventually gave up. The discovery had been written out of physics textbooks and the Encyclopedia Britannica. Webster’s dictionary listed “herapathite” under “obso
 
 I mentioned at the start of the chapter that our eyes can’t detect polarization. It turns out that many people can train their eyes to pick up one subtle signal. If you look at a white area on an LCD monitor and rotate your head, you may see a small, faint yellow hourglass shape appear and then fade. That image, a weird optical effect known as Haidinger’s brush, comes from a tiny sensitivity in the back of our eyes to polarized light.
-
-Not long after the Polavision launch had failed and the product was terminated, Land brought a freelance lighting designer to visit a warehouse full of the instant-movie cameras. The designer asked why Land had brought him to see “this sad landscape.”Land answered: “I wanted you to see what hubris looks like.”
 
 Isaac Newton, for example, is often celebrated for discovering universal gravity, explaining the motion of the planets, and inventing calculus. But well before Newton’s Principia, it was Johannes Kepler who first suggested the idea of a force from the sun driving the motion of the planets, Robert Hooke who first suggested a principle of universal gravity, Christiaan Huygens who showed that circular motion generates a centrifugal force, many who used Huygens’s law to derive the now-familiar form of gravity, Giovanni Borelli who explained the elliptical motion of Jupiter’s moons using gravitational forces, John Wallis and others who created the differential mathematics Newton used, and Gottfried Leibniz who invented calculus in the form we use today. That story is harder to tell than the apple falling on Newton’s head.
 
@@ -86,7 +74,7 @@ When I talk about the Beast and the Baby, it can seem very black and white—tha
 
 Franchise projects are easier to understand than loonshots, easier to quantify, and easier to sell up the chain of command in large companies. The challenge for these sequels and follow-ons is not in making it through the long dark tunnel of skepticism and uncertainty. Their challenge is in exceeding what came before.
 
-The difference between system and outcome mindset is a principle I adapted from his book How Life Imitates Chess. Kasparov describes this principle as key to his success.
+The difference between system and outcome mindset is a principle. (How Life Imitates Chess - Kasparov)
 
 Bad—why pawn-takes-bishop, for example, lost the game—as level 1 strategy, or outcome mindset. After a bad move costs him a game, however, Kasparov analyzes not just why the move was bad, but how he should change the decision process behind the move. In other words, how he decided on that move, in that moment, in the context of that opponent, and what that means for how he should change his decision-making and game-preparation routine in the future. Analyzing the decision process behind a move I’ll call level 2 strategy, or system mindset.
 
@@ -120,9 +108,10 @@ The battles between the descendants of these two branches continue to this day. 
 
 It can help us capture the benefits of diversity while reducing the risk of collective disasters. We want to benefit from the wisdom of crowds while reducing the risk of market crashes.
 
-To understand what phase transitions tell us about nurturing loonshots more effectively, we need to know just two things about them:1. At the heart of every phase transition is a tug-of-war between two competing forces.2. Phase transitions are triggered when small shifts in system properties—for example, density or temperature—cause the balance between those two forces to change.
+To understand what phase transitions tell us about nurturing loonshots more effectively, we need to know just two things about them:
 
-It is a truth universally acknowledged that a single man in possession of a good fortune must be in want of a wife.
+1. At the heart of every phase transition is a tug-of-war between two competing forces.
+2. Phase transitions are triggered when small shifts in system properties—for example, density or temperature—cause the balance between those two forces to change.
 
 As a forest gets dangerously close to a phase transition, to erupting, the frequency of fires should take a specific form. The frequency should vary in inverse proportion to size: Twenty-acre fires should occur half as often as ten-acre fires. Forty-acre fires should occur one-quarter as often as ten-acre fires. Hundred-acre fires should occur one-tenth as often, and so on. That pattern, called a power law, is a surprising prediction—a mathematical clue that a forest is on the verge of erupting.
 
