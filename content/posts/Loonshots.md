@@ -32,13 +32,13 @@ Endo’s journey, from start to ultimate validation with the FDA approval of the
 
 At the time, the only approach to treating cancer was chemotherapy: flood tumors with poison, the more the better, as long as you don’t kill the patient at the same time.
 
-* “You can tell a leader by counting the number of arrows in his ass.” People may think of Endo and Folkman as great inventors, but arguably their greatest skill was investigating failure.
+_“You can tell a leader by counting the number of arrows in his ass.” People may think of Endo and Folkman as great inventors, but arguably their greatest skill was investigating failure._
 
 Peter Thiel investing ON Facebook even when other social media platforms were shutting down. They learned to separate False Fails from true fails. They concluded that users weren’t leaving because social networks were weak business models, like clothing brands. They were leaving because of a software glitch. It was a False Fail.
 
 * On the creative side, inventors (artists) often believe that their work should speak for itself. Most find any kind of promotion distasteful. On the business side, line managers (soldiers) don’t see the need for someone who doesn’t make or sell stuff—for someone whose job is simply to promote an idea internally.
 
-But great project champions are much more than promoters. They are bilingual specialists, fluent in both artist-speak and soldier-speak, who can bring the two sides together.
+_But great project champions are much more than promoters. They are bilingual specialists, fluent in both artist-speak and soldier-speak, who can bring the two sides together._
 
 * In Italy, for 30 years under the Borgias, they had warfare, terror, murder and bloodshed, but they produced Michelangelo, Leonardo da Vinci, and the Renaissance.In Switzerland, they had brotherly love, they had 500 years of democracy and peace—and what did that produce? The cuckoo clock.
 
