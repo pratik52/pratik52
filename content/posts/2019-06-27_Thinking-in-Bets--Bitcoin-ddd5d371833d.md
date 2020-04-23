@@ -3,6 +3,7 @@ title: 'Thinking in Bets: Bitcoin'
 description: By Prateek Chhajed
 date: '2019-06-27T00:16:05.077Z'
 categories: []
+draft: true
 comments: "true"
 tags: [Bitcoin, Bets, Blockchain, Finance]
 slug: /@prateekchhajed/thinking-in-bets-bitcoin
