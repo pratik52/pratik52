@@ -9,6 +9,8 @@ slug: /@prateekchhajed/surge-in-payments-application
 ---
 Payment solutions for a billion users.
 
+{{< youtube Lee01Nw-Kqw >}}
+
 Sharing this talk from Kunal Shah (Founder Freecharge, Cred) at CFA meet on Payments landscape. This insightful talk will touch many topics and you will learn about Indian businesses and consumers. Enjoy!
 
 I have tried to summarise the insights from the talk. But I would suggest you to spare some time and watch it, there is so much to learn.
